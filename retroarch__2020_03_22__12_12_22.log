@@ -1,0 +1,414 @@
+[INFO] Using content: G:\Games\Assorted\Dolphin\Sonic Colors.iso.
+[INFO] arg #0: retroarch
+[INFO] arg #1: G:\Games\Assorted\Dolphin\Sonic Colors.iso
+[INFO] arg #2: -s
+[INFO] arg #3: C:\Users\David\AppData\Roaming\RetroArch\saves
+[INFO] arg #4: -S
+[INFO] arg #5: C:\Users\David\AppData\Roaming\RetroArch\states
+[INFO] arg #6: -c
+[INFO] arg #7: C:\Users\David\AppData\Roaming\RetroArch\retroarch.cfg
+[INFO] arg #8: -L
+[INFO] arg #9: C:\Users\David\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll
+[INFO] arg #10: -v
+[INFO] Content ran for a total of: 00 hours, 00 minutes, 00 seconds.
+[INFO] Unloading game..
+[INFO] Unloading core..
+[INFO] Unloading core symbols..
+[INFO] [Video]: Does not have enough samples for monitor refresh rate estimation. Requires to run for at least 4096 frames.
+[INFO] RetroArch 1.8.5 (Git 532fd88e2f)
+[INFO] Redirecting save file to "C:\Users\David\AppData\Roaming\RetroArch\saves\Sonic Colors.srm".
+[INFO] Redirecting savestate to "C:\Users\David\AppData\Roaming\RetroArch\states\Sonic Colors.state".
+[INFO] === Build =======================================
+[INFO] CPU Model Name: AMD Ryzen 5 2600X Six-Core Processor           
+[INFO] Capabilities:  MMX MMXEXT SSE SSE2 SSE3 SSSE3 SSE4 SSE4.2 AES AVX
+[INFO] Built: Mar 19 2020
+[INFO] Version: 1.8.5
+[INFO] Git: 532fd88e2f
+[INFO] =================================================
+[INFO] Loading dynamic libretro core from: "C:\Users\David\AppData\Roaming\RetroArch\cores\dolphin_libretro.dll"
+[INFO] [Overrides] no core-specific overrides found at C:\Users\David\AppData\Roaming\RetroArch\config\dolphin-emu\dolphin-emu.cfg.
+[INFO] [Overrides] no content-dir-specific overrides found at C:\Users\David\AppData\Roaming\RetroArch\config\dolphin-emu\Dolphin.cfg.
+[INFO] [Overrides] no game-specific overrides found at C:\Users\David\AppData\Roaming\RetroArch\config\dolphin-emu\Sonic Colors.cfg.
+[INFO] [Environ]: SET_VARIABLES.
+[INFO] [Remaps]: remap directory: C:\Users\David\AppData\Roaming\RetroArch\config\remaps
+[INFO] Redirecting save file to "C:\Users\David\AppData\Roaming\RetroArch\saves\Sonic Colors.srm".
+[INFO] Redirecting savestate to "C:\Users\David\AppData\Roaming\RetroArch\states\Sonic Colors.state".
+[INFO] [Environ]: SET_PIXEL_FORMAT: XRGB8888.
+[INFO] Content loading skipped. Implementation will load it on its own.
+[INFO] [Environ]: SYSTEM_DIRECTORY: "C:\Users\David\AppData\Roaming\RetroArch\system".
+[INFO] [Environ]: CORE_ASSETS_DIRECTORY: "C:\Users\David\AppData\Roaming\RetroArch\downloads".
+[INFO] [Environ]: SET_DISK_CONTROL_INTERFACE.
+[INFO] [Environ]: GET_LOG_INTERFACE.
+[libretro INFO] 12:32:164 dolphinlibretro\boot.cpp:68 I[COMMON]: User Directory set to 'C:\Users\David\AppData\Roaming\RetroArch\saves/User'
+[libretro INFO] 12:32:165 dolphinlibretro\boot.cpp:69 I[COMMON]: System Directory set to 'C:\Users\David\AppData\Roaming\RetroArch\system/dolphin-emu/Sys'
+[libretro INFO] 12:32:165 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:165 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:165 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:165 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:165 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:165 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:165 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:166 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:166 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:167 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:167 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:168 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:168 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:169 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:169 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:170 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:170 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:171 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:171 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:172 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:172 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:173 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:173 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:174 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:174 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:175 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:175 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:175 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:175 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:175 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:175 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:175 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:175 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[INFO] [Environ]: GET_PREFERRED_HW_RENDER.
+[INFO] [Environ]: SET_HW_RENDER.
+[INFO] Requesting OpenGL context.
+[libretro INFO] 12:32:175 dolphinlibretro\boot.cpp:122 N[Video]: Using GFX backend: OGL
+[libretro INFO] 12:32:175 core\configmanager.cpp:724 N[CORE]: Active title: SNCE8P
+[libretro INFO] 12:32:175 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:176 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:176 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:177 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:177 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:177 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Audio/
+[libretro INFO] 12:32:177 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:177 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/DSP/
+[libretro INFO] 12:32:177 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:177 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/SSL/
+[libretro INFO] 12:32:177 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:177 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Frames/
+[libretro INFO] 12:32:177 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:177 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Objects/
+[libretro INFO] 12:32:177 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:177 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Dump/Textures/
+[libretro INFO] 12:32:177 common\fileutil.cpp:130 I[COMMON]: Delete: file C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp
+[libretro WARN] 12:32:177 common\fileutil.cpp:145 W[COMMON]: Delete failed: C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp is a directory
+[libretro INFO] 12:32:177 common\fileutil.cpp:466 I[COMMON]: DeleteDirRecursively: C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp
+[libretro INFO] 12:32:177 common\fileutil.cpp:241 I[COMMON]: DeleteDir: directory C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp
+[libretro INFO] 12:32:178 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/
+[libretro INFO] 12:32:178 common\fileutil.cpp:171 I[COMMON]: CreateDir: directory C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/
+[libretro INFO] 12:32:178 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/sys/
+[libretro INFO] 12:32:178 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/sys/
+[libretro INFO] 12:32:178 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/ticket/
+[libretro INFO] 12:32:178 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/ticket/
+[libretro INFO] 12:32:178 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/title/
+[libretro INFO] 12:32:178 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/title/
+[libretro INFO] 12:32:178 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared1/
+[libretro INFO] 12:32:178 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared1/
+[libretro INFO] 12:32:178 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/
+[libretro INFO] 12:32:179 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/
+[libretro INFO] 12:32:179 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/
+[libretro INFO] 12:32:179 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/
+[libretro INFO] 12:32:179 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/import/
+[libretro INFO] 12:32:179 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/import/
+[libretro INFO] 12:32:179 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/meta/
+[libretro INFO] 12:32:179 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/meta/
+[libretro INFO] 12:32:179 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/wfs/
+[libretro INFO] 12:32:179 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/wfs/
+[libretro INFO] 12:32:179 common\fileutil.cpp:399 I[COMMON]: ScanDirectoryTree: directory C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/import
+[libretro INFO] 12:32:180 core\configloaders\baseconfigloader.cpp:64 N[CORE]: Disabling WC24 'standby' (shutdown to idle) to avoid hanging on shutdown
+[libretro INFO] 12:32:180 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/SYSCONF
+[libretro INFO] 12:32:181 common\fileutil.cpp:384 I[COMMON]: CreateEmptyFile: C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/SYSCONF
+[libretro INFO] 12:32:186 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/
+[libretro INFO] 12:32:186 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/
+[libretro INFO] 12:32:187 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:187 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:187 common\fileutil.cpp:130 I[COMMON]: Delete: file C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:187 common\fileutil.cpp:268 I[COMMON]: Rename: C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/SYSCONF --> C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:188 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/SYSCONF
+[libretro INFO] 12:32:189 common\fileutil.cpp:384 I[COMMON]: CreateEmptyFile: C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/SYSCONF
+[libretro INFO] 12:32:194 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/
+[libretro INFO] 12:32:194 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/
+[libretro INFO] 12:32:194 common\fileutil.cpp:204 I[COMMON]: CreateFullPath: path C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:194 common\fileutil.cpp:208 I[COMMON]: CreateFullPath: path exists C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:195 common\fileutil.cpp:130 I[COMMON]: Delete: file C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:195 common\fileutil.cpp:268 I[COMMON]: Rename: C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/tmp/SYSCONF --> C:\Users\David\AppData\Roaming\RetroArch\saves/User/Wii/shared2/sys/SYSCONF
+[libretro INFO] 12:32:196 core\core.cpp:950 N[COMMON]: Want determinism <- false
+[libretro INFO] 12:32:196 core\core.cpp:219 I[BOOT]: Starting core = Wii mode
+[libretro INFO] 12:32:196 core\core.cpp:220 I[BOOT]: CPU Thread separate = Yes
+[INFO] [Environ]: GET_RUMBLE_INTERFACE.
+[INFO] [Environ]: SET_CONTROLLER_INFO.
+[INFO] [RCHEEVOS]: ext_hash 0b8880d0 ('iso')
+[INFO] Skipping SRAM load..
+[INFO] Version of libretro API: 1
+[INFO] Compiled against API: 1
+[INFO] [RCHEEVOS]: Load task finished
+[INFO] [Cheats]: Load game-specific cheatfile: C:\Users\David\AppData\Roaming\RetroArch\cheats\dolphin-emu\Sonic Colors.cht
+[INFO] [Audio]: Set audio input rate to: 32032.00 Hz.
+[INFO] [Video]: Video @ 2817x1584
+[INFO] [Video]: Using HW render, OpenGL driver forced.
+[INFO] [Video]: Using configured "gl" driver for GL HW render.
+[INFO] [GL]: Found GL context: wgl
+[INFO] [GL]: Detecting screen resolution 2560x1440.
+[INFO] [WGL] extensions: WGL_ARB_extensions_string WGL_ARB_pixel_format WGL_ATI_pixel_format_float WGL_ARB_pixel_format_float WGL_ARB_multisample WGL_EXT_swap_control WGL_EXT_swap_control_tear WGL_ARB_pbuffer WGL_ARB_render_texture WGL_ARB_make_current_read WGL
+[INFO] [WGL]: Adaptive VSync supported.
+[INFO] [WGL]: wglSwapInterval(1)
+[INFO] [GL]: Vendor: ATI Technologies Inc., Renderer: Radeon RX 580 Series.
+[INFO] [GL]: Version: 4.6.13586 Core Profile Context 20.1.2 26.20.15011.10003.
+[INFO] [GL]: Using resolution 2564x1401
+[INFO] [GL]: Default shader backend found: glsl.
+[INFO] [Shaders]: preset directory: C:\Users\David\AppData\Roaming\RetroArch\shaders\presets
+[INFO] [Shader driver]: Using GLSL shader backend.
+[INFO] [GLSL]: Checking GLSL shader support ...
+[WARN] [GL]: Stock GLSL shaders will be used.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GLSL]: Found GLSL vertex shader.
+[INFO] [GLSL]: Found GLSL fragment shader.
+[INFO] [GLSL]: Linking GLSL program.
+[INFO] [GL]: Using 1 textures.
+[INFO] [GL]: Loaded 1 program(s).
+[INFO] [GL]: Initializing HW render (1024 x 1024).
+[INFO] [GL]: Max texture size: 0 px, renderbuffer size: 0 px.
+[INFO] [GL]: Supports FBO (render-to-texture).
+[ERROR] [GL]: Failed to create HW render FBO #0, error: 0x0000.
+[ERROR] [GL]: Hardware rendering context initialization failed.
+[ERROR] [Video]: Cannot open video driver ... Exiting ...
+[ERROR] Fatal error received in: "init_video()"
+[ERROR] failed_to_start_audio_driver
+[INFO] [Font]: Using font rendering backend: freetype.
